@@ -1,7 +1,6 @@
 ### Hi there, I'm Malvin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-## I'm a Binus University Computer Science Student, Developer, and Teaching Assistant at Binus University!
-- 🌱 I’m currently learning about cyber forensic
+## I'm currently work at Blibli as developer
 
 <br>
 
